@@ -1,11 +1,19 @@
+# Kick-code
+   Nombre del proyecto:Kick-code
 
-  # Finalizar diseño
+   Integrantes:
+    - Juan Diego Zapata
+    -Luis Rodrigo Ulloa
+    -Kevin adrian Osorio
 
-  This is a code bundle for Finalizar diseño. The original project is available at https://www.figma.com/design/62fI2oALlBEbZMKUsi2T3J/Finalizar-dise%C3%B1o.
+    Descripcion del sistema:
+    Kick-code es una plataforma de aprendizaje de programación diseñada para ayudar a los estudiantes o programadores juniors a mejorar sus habilidades de codificación a través de ejercicios prácticos y teóricos. La plataforma ofrece una variedad de ejercicios de programación en diferentes lenguajes, con niveles de dificultad adaptados al progreso del usuario. Además, Kick-code proporciona retroalimentación inmediata sobre los ejercicios realizados, detectando errores de sintaxis y ofreciendo explicaciones teóricas cuando sea necesario. El objetivo de Kick-code es fomentar el aprendizaje activo y mejorar la velocidad de programación de los estudiantes, brindándoles una experiencia de aprendizaje interactiva y personalizada.
 
-  ## Running the code
+    Contenido de la carpeta docs:
+    - Requerimientos.md: Contiene los requerimientos funcionales del sistema.
+    - CasosUsos.md: Contiene los casos de uso del sistema.  
+    -architectura.jpeg: Contiene la arquitectura del sistema.
+    -diagrama.png: Contiene el diagrama de clases del sistema.
+    -Grupo3_SRS.pdf: Contiene lo que hemos avanzado hasta el momento lo subi como pdf porque no pude subirlo como archivo word y algunos cambios no se veran reflejados en el pdf.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
   
