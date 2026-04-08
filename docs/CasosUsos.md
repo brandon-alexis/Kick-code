@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <th>CU#</th>
+      <th>U#</th>
       <th>Título</th>
       <th>Descripción</th>
       <th>Actores</th>
