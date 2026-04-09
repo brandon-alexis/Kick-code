@@ -1,4 +1,4 @@
-# Casos de uso[CU]
+# Casos de uso[CUU]
 <table>
   <thead>
     <tr>
